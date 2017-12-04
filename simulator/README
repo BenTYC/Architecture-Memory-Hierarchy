@@ -1,0 +1,3 @@
+// one program and five headers have to do the compiling
+// main.c simulator.h cmp.h cmpfunction.h cmpdevice.h queue.h compile to main.o 
+// then make main.o to CMP for execution (use -lm to include <math.h>)
